@@ -1,0 +1,16 @@
+# Local database configuration containing credentials
+db_config.php
+
+# macOS system files
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Environment files
+.env
+.env.*
